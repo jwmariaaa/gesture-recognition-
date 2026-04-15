@@ -2,6 +2,8 @@
 
 Um sistema de visão computacional em tempo real que detecta gestos da mão pela webcam e ativa efeitos visuais, sonoros e animações inspirados em três animes — construído com MediaPipe, OpenCV e Pygame.
 
+Nota: Utilizei o AntiGravity e, dentro dele, um agente de IA para gerar o código em Python. O objetivo principal era entender como a visão computacional funciona e, a partir disso, desenvolver algo que eu considero divertido.
+
 ---
 
 ## ✨ Demonstração
